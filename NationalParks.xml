@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://ri608.github.io/cse445_a4/NationalParks.xsd">
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+    	<Phone>928-638-7496</Phone>
+    	<Phone>888-297-2757</Phone>
+    	<Phone>866-499-2574</Phone>
+    	<Address NearestAirport="FlagStaff">
+     	<Number>8</Number>
+      	<Street>S Entrance Road</Street>
+     	<City>Grand Canyon</City>
+      	<State>AZ</State>
+      	<Zip>86023</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark>
+		<Name>Haleakala</Name>
+    	<Phone>808-572-4400</Phone>
+    	<Address NearestAirport="Kahului">
+     	<Number>30000</Number>
+      	<Street>Haleakala Hwy</Street>
+     	<City>Kula</City>
+      	<State>HI</State>
+      	<Zip>96790</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	  <NationalPark>
+		<Name>Hawaii Volcanoes</Name>
+    	<Phone>808-985-6011</Phone>
+    	<Address NearestAirport="Hilo">
+     	<Number>1</Number>
+      	<Street>Crater Rim Drive</Street>
+     	<City>Hawaii National Park</City>
+      	<State>HI</State>
+      	<Zip>96718</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark>
+		<Name>Bryce Canyon</Name>
+    	<Phone>435-834-5322</Phone>
+    	<Address NearestAirport="Cedar City">
+     	<Number>640201</Number>
+      	<Street>PO Box</Street>
+     	<City>Bryce</City>
+      	<State>UT</State>
+      	<Zip>84764</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark Rating="4.6">
+		<Name>Zion</Name>
+    	<Phone>435-772-3256</Phone>
+    	<Address NearestAirport="St George">
+     	<Number>1</Number>
+      	<Street>Zion Park Blvd</Street>
+     	<City>Springdale</City>
+      	<State>UT</State>
+      	<Zip>84767</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark>
+		<Name>Channel Islands</Name>
+ 		<Phone>805-658-5730</Phone>
+  		<Phone>805-658-5700</Phone>
+    	<Address NearestAirport="Santa Barbara">
+     	<Number>1901</Number>
+      	<Street>Spinnaker Drive</Street>
+     	<City>Ventura</City>
+      	<State>CA</State>
+      	<Zip>93001</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	 <NationalPark Rating="4.0">
+		<Name>Joshua Tree</Name>
+    	<Phone>760-367-5500</Phone>
+    	<Address NearestAirport="Palm Springs">
+     	<Number>74485</Number>
+      	<Street>National Park Drive</Street>
+     	<City>Twentynine Palms</City>
+      	<State>CA</State>
+      	<Zip>92277</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark>
+		<Name>Pinnacles</Name>
+  		<Phone>831-389-4486</Phone>
+  		<Phone>831-389-4485</Phone>
+    	<Address NearestAirport="Monterey">
+     	<Number>5000</Number>
+      	<Street>East Entrance Road</Street>
+     	<City>Paicines</City>
+      	<State>CA</State>
+      	<Zip>95043</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark Rating="5.0">
+		<Name>Yosemite</Name>
+    	<Phone>209-372-0200</Phone>
+    	<Address NearestAirport="Fresno">
+     	<Number>577</Number>
+      	<Street>PO Box</Street>
+     	<City>Yosemite National Park</City>
+      	<State>CA</State>
+      	<Zip>95389</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark>
+		<Name>Olympic</Name>
+  		<Phone>360-565-3130</Phone>
+  		<Phone>360-565-3100</Phone>
+    	<Address NearestAirport="Port Angeles">
+     	<Number>600</Number>
+      	<Street>E. Park Avenue</Street>
+     	<City>Port Angeles</City>
+      	<State>WA</State>
+      	<Zip>98362</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+  	<NationalPark>
+		<Name>Crater Lake</Name>
+    	<Phone>541-594-3000</Phone>
+    	<Address NearestAirport="Klamath Falls">
+     	<Number>570</Number>
+      	<Street>Rim Village Dr</Street>
+     	<City>Crater Lake National Park</City>
+      	<State>OR</State>
+      	<Zip>97604</Zip>
+   	 	</Address>
+  	</NationalPark>
+
+</NationalParks>
