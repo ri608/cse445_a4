@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="https://ri608.github.io/cse445_a4"
+           targetNamespace="https://ri608.github.io/cse445_a4"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
 
-<!-- Root element is NationalParks, children stem from there -->
 
 <xs:element name="NationalParks">
 	<xs:complexType>
@@ -18,7 +21,7 @@
 									<xs:element name="Street" type="xs:string" />
 									<xs:element name="City" type="xs:string" />
 									<xs:element name="State" type="xs:string" />
-									<xs:element name="Zip" type="xs:string" />
+									<xs:element name="Zip" type="xs:int" />
 								</xs:sequence>
 								<xs:attribute name="NearestAirport" type="xs:string" use="required" />
 							</xs:complexType>
